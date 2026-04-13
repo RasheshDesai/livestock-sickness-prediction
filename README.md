@@ -49,8 +49,9 @@ For **Exploratory Data Analysis** of the dataset refer to this link:
 ## 🛠️ Tech Stack
 
 **Core ML & Data Processing:**
+- ETL Processing
+- SQL
 - Python
-- Jupyter Notebook
 - Pandas
 - NumPy
 - Scikit-learn
